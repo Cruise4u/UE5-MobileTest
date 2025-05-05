@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/Level/LevelTestIdea.umap",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/Level/LevelTestIdea_BuiltData.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalActors__/FirstPerson/Maps/DefenseMap_Test/D/QC/4L8D6XPH5ZEE0W1QPPST2Z.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/A/0P/D75IUKWXI1KJN2ZIRT7D8E.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/7/2S/796KBUNGCIZB0HMO1V2BZO.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/E/GZ/YHMRW257FR580DUHI391IQ.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/4/B5/UNZOXV4RNIZ40YFCA35S2E.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/0/66/L2C8Y2TV9LRVO8KZE3OSZ8.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/4/UI/SJUNXEQU3AL6H6IWVMVF3V.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/6/4V/CH988A1U3SVBWZCVIY1Q1M.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/DefenseMap_Test/6/WO/XCWVFKI24FGDHTZ05EW2U7.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/FirstPerson/Maps/DefenseMap_Test.umap",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/FirstPerson/Maps/DefenseMap_BuildData.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalActors__/FirstPerson/Maps/Test/DefenseMap_Test/1/QT/JT1OVOAPCMZ0WDPH9ROO64.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/8/KR/9IC0V43Y5K69P8DXFV09YB.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/D/P8/QYIB9XB4OJCLSG5FG3N7FQ.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/D/IF/ZR25APWP57Q4GSWBDM40CG.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/8/SD/UHJT7RM9TLRVDU275H2OWD.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/5/1R/FLLZ7MI40VRXPCZTWWPRDY.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/8/2D/NE9PP5293705BCUX7I1MY3.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/6/38/ZGG36TALP9GQ1BCJ6XI9NO.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalObjects__/FirstPerson/Maps/Test/DefenseMap_Test/D/DW/BLBKXXNX29BNDVTQL6ZZJV.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/FirstPerson/Maps/Test/DefenseMap_Test.umap",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/FirstPerson/Maps/Test/DefenseMap_BuildData.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalActors__/FirstPerson/Maps/Test/DefenseMap_Test/B/XV/TZZXCPHPI5LOKBHK1AYZ0O.uasset",
+				"C:/Users/pedro/Documents/GitHub/UE5-MobileTest/ArmoredDefense/Content/__ExternalActors__/FirstPerson/Maps/Test/DefenseMap_Test/8/F2/WIZ33EEODPV7F1S63FAR9Z.uasset"
+			]
+		}
+	]
+}
